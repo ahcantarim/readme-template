@@ -1,13 +1,8 @@
-<p align="center">
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-</p>
 
 
 <!-- PROJECT LOGO -->
@@ -62,27 +57,20 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre este projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Screenshot][product-screenshot]][product-screenshot]
 
 Aqui está um modelo em branco para você começar a documentação do seu projeto de forma padronizada.
 
-**Para evitar redigitar muita informação, faça uma busca e substitua os seguintes termos em seu editor de textos:**
-- `ahcantarim` = Seu nome de usuário do Github
-- `André Cantarim` = Seu nome completo
-- `readme-template` = Nome do repositório do Github
-- `https://github.com/ahcantarim/readme-template` = URL do repositório do Github
-- `Readme Template` = Título do projeto
-- `[CONST_DEMO_URL]` = URL da demonstração (se houver)
-
+**Para começar um projeto novo, utilize o modelo ``README_BLANK.md``**
 
 <a href="#sumário">🔝 Voltar ao topo</a>
 
 
 ### Tecnologias utilizadas
 
-* [Tecnologia 1](#link_para_tecnologia_1)
-* [Tecnologia 2](#link_para_tecnologia_2)
-* [...](#) ...
+Esse projeto não utiliza nenhuma tecnologia específica, apenas o Markdown comumente utilizado no GitHub.
+
+* [GitHub Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>
@@ -95,17 +83,7 @@ Para obter uma cópia local atualizada e que possa ser executada corretamente, s
 
 ### Pré-requisitos
 
-Aqui está um exemplo de como listar itens que seu projeto utiliza e como instalá-los.
-
-* npm
-  ```bash
-  npm install npm@latest -g
-  ```
-
-* Item 2
-  ```bash
-  como obter item 2
-  ```
+Crie seu repositório normalmente com um arquivo ``README.md`` e substitua o conteúdo do mesmo com os dados do modelo disponibilizado.
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>
@@ -123,10 +101,7 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
 
 ### Instalando as dependências
 
-1. Instalar os pacotes NPM
-   ```bash
-   npm install
-   ```
+Não se aplica.
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>
@@ -135,10 +110,7 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
 <!-- USAGE EXAMPLES -->
 ## Utilizando a aplicação
 
-1. No diretório do projeto, executar o comando:
-   ```bash
-   npm start
-   ```
+Não se aplica.
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>
@@ -147,9 +119,7 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
 <!-- ROADMAP -->
 ## Roteiro de melhorias
 
-- [x] Melhoria 1 já implementada
-- [ ] Melhoria 2 a implementar
-- [ ] ...
+Não se aplica.
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>
@@ -158,13 +128,7 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
 <!-- CONTRIBUTING -->
 ## Contribuições
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Não se aplica.
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>
@@ -182,7 +146,9 @@ Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
 <!-- CONTACT -->
 ## Contato
 
-André Cantarim - [@social_link](#) - email
+André Cantarim
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>
@@ -191,9 +157,7 @@ André Cantarim - [@social_link](#) - email
 <!-- ACKNOWLEDGEMENTS -->
 ## Referências
 
-* [Referência 1](#link_para_referencia_1)
-* [Referência 2](#link_para_referencia_2)
-* [...](#) ...
+Não se aplica.
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>

@@ -25,7 +25,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -83,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre este projeto
 
-[![Screenshot][product-screenshot]](https://example.com)
+[![Screenshot][product-screenshot]][product-screenshot]
 
 Aqui está um modelo em branco para você começar a documentação do seu projeto de forma padronizada.
 
@@ -204,6 +203,8 @@ Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
 ## Contato
 
 [CONST_AUTHOR_NAME] - [@social_link](#) - email
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>
