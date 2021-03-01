@@ -90,6 +90,7 @@ Aqui está um modelo em branco para você começar a documentação do seu proje
 
 **Para evitar redigitar muita informação, faça uma busca e substitua os seguintes termos em seu editor de textos:**
 - `[CONST_GITHUB_USERNAME]` = Seu nome de usuário do Github
+- `[CONST_AUTHOR_NAME]` = Seu nome completo
 - `[CONST_REPOSITORY_NAME]` = Nome do repositório do Github
 - `[CONST_REPOSITORY_URL]` = URL do repositório do Github
 - `[CONST_PROJECT_TITLE]` = Título do projeto
@@ -99,56 +100,69 @@ Aqui está um modelo em branco para você começar a documentação do seu proje
 
 ### Tecnologias utilizadas
 
-* [Tecnologia 1](link_para_tecnologia_1)
-* [Tecnologia 2](link_para_tecnologia_2)
-* []()
+* [Tecnologia 1](#link_para_tecnologia_1)
+* [Tecnologia 2](#link_para_tecnologia_2)
+* [...](#) ...
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Configurações do ambiente de desenvolvimento
 
-To get a local copy up and running follow these simple steps.
+Para obter uma cópia local atualizada e que possa ser executada corretamente, siga os passos abaixo.
 
-### Prerequisites
+### Pré-requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
+Aqui está um exemplo de como listar itens que seu projeto utiliza e como instalá-los.
+
 * npm
-  ```sh
+  ```bash
   npm install npm@latest -g
   ```
 
-### Installation
+* Item 2
+  ```bash
+  como obter item 2
+  ```
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
+### Clonando o repositório
+
+   ```bash
+   git clone [CONST_REPOSITORY_URL].git
    ```
-2. Install NPM packages
-   ```sh
+
+
+
+### Instalando as dependências
+
+1. Instalar os pacotes NPM
+   ```bash
    npm install
    ```
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Utilizando a aplicação
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. No diretório do projeto, executar o comando:
+   ```bash
+   npm start
+   ```
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Roteiro de melhorias
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+- [x] Melhoria 1 já implementada
+- [ ] Melhoria 2 a implementar
+- [ ] ...
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuições
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -161,29 +175,25 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+## Licença
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
 
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+[CONST_AUTHOR_NAME] - [@social_link](#) - email
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Referências
 
-* []()
-* []()
-* []()
-
-
+* [Referência 1](#link_para_referencia_1)
+* [Referência 2](#link_para_referencia_2)
+* [...](#) ...
 
 
 
