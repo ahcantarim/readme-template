@@ -32,23 +32,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src=".github/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/[CONST_GITHUB_USERNAME]/[CONST_REPOSITORY_NAME]">
+    <img src=".github/logo.png" alt="[CONST_REPOSITORY_NAME]" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">[CONST_PROJECT_TITLE]</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    Adicione uma breve descrição do projeto aqui.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="[CONST_DEMO_URL]">Ver demonstração</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/[CONST_GITHUB_USERNAME]/[CONST_REPOSITORY_NAME]/issues">Ver problemas abertos</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/[CONST_GITHUB_USERNAME]/[CONST_REPOSITORY_NAME]/issues/new">Reportar um problema</a>
   </p>
 </p>
 
@@ -56,46 +54,53 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Tabela de conteúdos</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#sobre-este-projeto">Sobre este projeto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#configurações-do-ambiente-de-desenvolvimento">Configurações do ambiente de desenvolvimento</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
+        <li><a href="#clonando-o-repositório">Clonando o repositório</a></li>
+        <li><a href="#instalando-as-dependências">Instalando as dependências</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#utilizando-a-aplicação">Utilizando a aplicação</a></li>
+    <li><a href="#roteiro-de-melhorias">Roteiro de melhorias</a></li>
+    <li><a href="#contribuições">Contribuições</a></li>
+    <li><a href="#licença">Licença</a></li>
+    <li><a href="#contato">Contato</a></li>
+    <li><a href="#referências">Referências</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre este projeto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+Aqui está um modelo em branco para você começar a documentação do seu projeto de forma padronizada.
+
+**Para evitar redigitar muita informação, faça uma busca e substitua os seguintes termos em seu editor de textos:**
+- `[CONST_GITHUB_USERNAME]` = Seu nome de usuário do Github
+- `[CONST_REPOSITORY_NAME]` = Nome do repositório do Github
+- `[CONST_REPOSITORY_URL]` = URL do repositório do Github
+- `[CONST_PROJECT_TITLE]` = Título do projeto
+- `[CONST_DEMO_URL]` = URL da demonstração (se houver)
 
 
-### Built With
 
-* []()
-* []()
+### Tecnologias utilizadas
+
+* [Tecnologia 1](link_para_tecnologia_1)
+* [Tecnologia 2](link_para_tecnologia_2)
 * []()
 
 
