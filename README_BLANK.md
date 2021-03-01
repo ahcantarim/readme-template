@@ -76,9 +76,6 @@
 </ol>
 
 
-<a href="#sumário">🔝 Voltar ao topo</a>
-
-
 <!-- ABOUT THE PROJECT -->
 ## Sobre este projeto
 
@@ -95,17 +92,11 @@ Aqui está um modelo em branco para você começar a documentação do seu proje
 - `[CONST_DEMO_URL]` = URL da demonstração (se houver)
 
 
-<a href="#sumário">🔝 Voltar ao topo</a>
-
-
 ### Tecnologias utilizadas
 
 * [Tecnologia 1](#link_para_tecnologia_1)
 * [Tecnologia 2](#link_para_tecnologia_2)
 * [...](#) ...
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- GETTING STARTED -->
@@ -128,17 +119,11 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
   ```
 
 
-<a href="#sumário">🔝 Voltar ao topo</a>
-
-
 ### Clonando o repositório
 
    ```bash
    git clone [CONST_REPOSITORY_URL].git
    ```
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 ### Instalando as dependências
@@ -147,9 +132,6 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
    ```bash
    npm install
    ```
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- USAGE EXAMPLES -->
@@ -161,18 +143,12 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
    ```
 
 
-<a href="#sumário">🔝 Voltar ao topo</a>
-
-
 <!-- ROADMAP -->
 ## Roteiro de melhorias
 
 - [x] Melhoria 1 já implementada
 - [ ] Melhoria 2 a implementar
 - [ ] ...
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- CONTRIBUTING -->
@@ -187,16 +163,10 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-<a href="#sumário">🔝 Voltar ao topo</a>
-
-
 <!-- LICENSE -->
 ## Licença
 
 Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- CONTACT -->
@@ -205,9 +175,6 @@ Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
 [CONST_AUTHOR_NAME] - [@social_link](#) - email
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- ACKNOWLEDGEMENTS -->

@@ -63,17 +63,12 @@ Aqui está um modelo em branco para você começar a documentação do seu proje
 
 **Para começar um projeto novo, utilize o modelo ``README_BLANK.md``**
 
-<a href="#sumário">🔝 Voltar ao topo</a>
-
 
 ### Tecnologias utilizadas
 
 Esse projeto não utiliza nenhuma tecnologia específica, apenas o Markdown comumente utilizado no GitHub.
 
 * [GitHub Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- GETTING STARTED -->
@@ -86,9 +81,6 @@ Para obter uma cópia local atualizada e que possa ser executada corretamente, s
 Crie seu repositório normalmente com um arquivo ``README.md`` e substitua o conteúdo do mesmo com os dados do modelo disponibilizado.
 
 
-<a href="#sumário">🔝 Voltar ao topo</a>
-
-
 ### Clonando o repositório
 
    ```bash
@@ -96,15 +88,9 @@ Crie seu repositório normalmente com um arquivo ``README.md`` e substitua o con
    ```
 
 
-<a href="#sumário">🔝 Voltar ao topo</a>
-
-
 ### Instalando as dependências
 
 Não se aplica.
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- USAGE EXAMPLES -->
@@ -113,16 +99,10 @@ Não se aplica.
 Não se aplica.
 
 
-<a href="#sumário">🔝 Voltar ao topo</a>
-
-
 <!-- ROADMAP -->
 ## Roteiro de melhorias
 
 Não se aplica.
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- CONTRIBUTING -->
@@ -131,16 +111,10 @@ Não se aplica.
 Não se aplica.
 
 
-<a href="#sumário">🔝 Voltar ao topo</a>
-
-
 <!-- LICENSE -->
 ## Licença
 
 Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- CONTACT -->
@@ -149,9 +123,6 @@ Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
 André Cantarim
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- ACKNOWLEDGEMENTS -->
