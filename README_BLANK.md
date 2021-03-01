@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre este projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Screenshot][product-screenshot]](https://example.com)
 
 Aqui está um modelo em branco para você começar a documentação do seu projeto de forma padronizada.
 
@@ -234,3 +234,4 @@ Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
 [license-url]: https://github.com/[CONST_GITHUB_USERNAME]/[CONST_REPOSITORY_NAME]/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/[CONST_GITHUB_USERNAME]
+[product-screenshot]: .github/screenshot.png
