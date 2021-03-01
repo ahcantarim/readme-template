@@ -12,7 +12,6 @@
 -->
 
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -27,7 +26,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -52,24 +50,23 @@
 </p>
 
 
-
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Tabela de conteúdos</h2></summary>
-  <ol>
+## Sumário
+
+<ol>
     <li>
-      <a href="#sobre-este-projeto">Sobre este projeto</a>
-      <ul>
-        <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
-      </ul>
+        <a href="#sobre-este-projeto">Sobre este projeto</a>
+        <ul>
+            <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
+        </ul>
     </li>
     <li>
-      <a href="#configurações-do-ambiente-de-desenvolvimento">Configurações do ambiente de desenvolvimento</a>
-      <ul>
-        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
-        <li><a href="#clonando-o-repositório">Clonando o repositório</a></li>
-        <li><a href="#instalando-as-dependências">Instalando as dependências</a></li>
-      </ul>
+        <a href="#configurações-do-ambiente-de-desenvolvimento">Configurações do ambiente de desenvolvimento</a>
+        <ul>
+            <li><a href="#pré-requisitos">Pré-requisitos</a></li>
+            <li><a href="#clonando-o-repositório">Clonando o repositório</a></li>
+            <li><a href="#instalando-as-dependências">Instalando as dependências</a></li>
+        </ul>
     </li>
     <li><a href="#utilizando-a-aplicação">Utilizando a aplicação</a></li>
     <li><a href="#roteiro-de-melhorias">Roteiro de melhorias</a></li>
@@ -77,9 +74,10 @@
     <li><a href="#licença">Licença</a></li>
     <li><a href="#contato">Contato</a></li>
     <li><a href="#referências">Referências</a></li>
-  </ol>
-</details>
+</ol>
 
+
+<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- ABOUT THE PROJECT -->
@@ -98,6 +96,8 @@ Aqui está um modelo em branco para você começar a documentação do seu proje
 - `[CONST_DEMO_URL]` = URL da demonstração (se houver)
 
 
+<a href="#sumário">🔝 Voltar ao topo</a>
+
 
 ### Tecnologias utilizadas
 
@@ -105,6 +105,8 @@ Aqui está um modelo em branco para você começar a documentação do seu proje
 * [Tecnologia 2](#link_para_tecnologia_2)
 * [...](#) ...
 
+
+<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- GETTING STARTED -->
@@ -126,12 +128,18 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
   como obter item 2
   ```
 
+
+<a href="#sumário">🔝 Voltar ao topo</a>
+
+
 ### Clonando o repositório
 
    ```bash
    git clone [CONST_REPOSITORY_URL].git
    ```
 
+
+<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 ### Instalando as dependências
@@ -141,6 +149,8 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
    npm install
    ```
 
+
+<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- USAGE EXAMPLES -->
@@ -152,6 +162,8 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
    ```
 
 
+<a href="#sumário">🔝 Voltar ao topo</a>
+
 
 <!-- ROADMAP -->
 ## Roteiro de melhorias
@@ -160,6 +172,8 @@ Aqui está um exemplo de como listar itens que seu projeto utiliza e como instal
 - [ ] Melhoria 2 a implementar
 - [ ] ...
 
+
+<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- CONTRIBUTING -->
@@ -174,6 +188,8 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
+<a href="#sumário">🔝 Voltar ao topo</a>
+
 
 <!-- LICENSE -->
 ## Licença
@@ -181,12 +197,16 @@ Contributions are what make the open source community such an amazing place to b
 Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
 
 
+<a href="#sumário">🔝 Voltar ao topo</a>
+
 
 <!-- CONTACT -->
 ## Contato
 
 [CONST_AUTHOR_NAME] - [@social_link](#) - email
 
+
+<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -196,6 +216,8 @@ Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
 * [Referência 2](#link_para_referencia_2)
 * [...](#) ...
 
+
+<a href="#sumário">🔝 Voltar ao topo</a>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
