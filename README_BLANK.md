@@ -108,39 +108,41 @@ Para obter uma cópia local atualizada e que possa ser executada corretamente, s
 
 Aqui está um exemplo de como listar itens que seu projeto utiliza e como instalá-los.
 
-* npm
-  ```bash
-  npm install npm@latest -g
-  ```
+* Item 1
+```bash
+npm install npm@latest -g
+```
 
 * Item 2
-  ```bash
-  como obter item 2
-  ```
+```bash
+como obter item 2
+```
 
 
 ### Clonando o repositório
 
-   ```bash
-   git clone [CONST_REPOSITORY_URL].git
-   ```
+```bash
+git clone [CONST_REPOSITORY_URL].git
+```
 
 
 ### Instalando as dependências
 
-1. Instalar os pacotes NPM
-   ```bash
-   npm install
-   ```
+No diretório do projeto, executar o comando:
+
+```bash
+npm install
+```
 
 
 <!-- USAGE EXAMPLES -->
 ## Utilizando a aplicação
 
-1. No diretório do projeto, executar o comando:
-   ```bash
-   npm start
-   ```
+No diretório do projeto, executar o comando:
+
+```bash
+npm start
+```
 
 
 <!-- ROADMAP -->
@@ -172,7 +174,7 @@ Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
 <!-- CONTACT -->
 ## Contato
 
-[CONST_AUTHOR_NAME] - [@social_link](#) - email
+[CONST_AUTHOR_NAME]
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
