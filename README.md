@@ -61,14 +61,15 @@
 
 Aqui está um modelo em branco para você começar a documentação do seu projeto de forma padronizada.
 
-**Para começar um projeto novo, utilize o modelo ``README_BLANK.md``**
+**Para começar um novo projeto, utilize o modelo `README_BLANK.md`, substitua os valores de constantes configuradas e personalize de acordo com sua necessidade.**
 
 
 ### Tecnologias utilizadas
 
-Esse projeto não utiliza nenhuma tecnologia específica, apenas o Markdown comumente utilizado no GitHub.
+Não aplicável para este projeto, mas aqui está um exemplo de como você poderia personalizar para seus projetos.
 
-* [GitHub Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [ReactJS](https://pt-br.reactjs.org/)
+* [Node.js](https://nodejs.org/en/)
 
 
 <!-- GETTING STARTED -->
@@ -78,37 +79,68 @@ Para obter uma cópia local atualizada e que possa ser executada corretamente, s
 
 ### Pré-requisitos
 
-Crie seu repositório normalmente com um arquivo ``README.md`` e substitua o conteúdo do mesmo com os dados do modelo disponibilizado.
+1. Crie seu projeto no GitHub, inicializando o mesmo com um arquivo `README.md`.
+2. Clone este repositório em sua máquina local.
+3. Copie o conteúdo do arquivo `README_BLANK.md` e substitua no arquivo `README.md` do seu projeto.
+4. Substitua os valores de constantes configuradas e personalize de acordo com sua necessidade.
+5. Crie um diretório `.github` e copie os arquivos deste repositório para ele.
+6. Edite a imagem `screenshot.png` com algo que demonstre seu projeto em funcionamento.
 
 
 ### Clonando o repositório
 
-   ```bash
-   git clone https://github.com/ahcantarim/readme-template.git
-   ```
+```bash
+git clone https://github.com/ahcantarim/readme-template.git
+```
 
 
 ### Instalando as dependências
 
-Não se aplica.
+Não aplicável para este projeto, mas aqui está um exemplo de como você poderia personalizar para seus projetos.
+
+No diretório do projeto, executar o(s) comando(s):
+
+```bash
+npm install
+```
 
 
 <!-- USAGE EXAMPLES -->
 ## Utilizando a aplicação
 
-Não se aplica.
+Não aplicável para este projeto, mas aqui está um exemplo de como você poderia personalizar para seus projetos.
+
+No diretório do projeto, executar o(s) comando(s):
+
+```bash
+npm start
+```
+
+Será inicializado o servidor de desenvolvimento, que pode ser acessado através do *browser* no endereço <http://localhost:3000>.
 
 
 <!-- ROADMAP -->
 ## Roteiro de melhorias
 
-Não se aplica.
+Não aplicável para este projeto, mas aqui está um exemplo de como você poderia personalizar para seus projetos.
+
+- [x] Melhoria 1
+- [ ] Melhoria 2
+- [ ] ...
+- [ ] Melhoria X
 
 
 <!-- CONTRIBUTING -->
 ## Contribuições
 
-Não se aplica.
+Contribuições são o que fazem a comunidade *open source* um local surpreendente para aprender, inspirar e criar. Qualquer contribuição que você fizer será **de grande valia**.
+
+1. Faça um *fork* desse repositório ni GitHub.
+2. Faça um *clone* do repositório *fork* criado (`git clone https://github.com/ahcantarim/readme-template`).
+3. Crie um *branch* para *commitar* sua funcionalidade ou correção (`git checkout -b MyAmazingFeature`).
+4. Faça o *commit* das alterações (`git commit -m 'Add my amazing feature`).
+5. Faça o *push* da sua *branch* para o seu *fork* (`git push origin MyAmazingFeature`).
+6. Vá para as [Pull requests](https://github.com/ahcantarim/readme-template/pulls) e abra uma nova requisição com o(s) seu(s) *commits(s)*.
 
 
 <!-- LICENSE -->
@@ -128,7 +160,12 @@ André Cantarim
 <!-- ACKNOWLEDGEMENTS -->
 ## Referências
 
-Não se aplica.
+Não aplicável para este projeto, mas aqui está um exemplo de como você poderia personalizar para seus projetos.
+
+* [Referência 1](#link_para_referencia_1)
+* [Referência 2](#link_para_referencia_2)
+* ...
+* [Referência X](#link_para_referencia_x)
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>

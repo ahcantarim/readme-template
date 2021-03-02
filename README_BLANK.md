@@ -84,20 +84,20 @@
 Aqui está um modelo em branco para você começar a documentação do seu projeto de forma padronizada.
 
 **Para evitar redigitar muita informação, faça uma busca e substitua os seguintes termos em seu editor de textos:**
-- `[CONST_GITHUB_USERNAME]` = Seu nome de usuário do Github
-- `[CONST_AUTHOR_NAME]` = Seu nome completo
-- `[CONST_REPOSITORY_NAME]` = Nome do repositório do Github
-- `[CONST_REPOSITORY_URL]` = URL do repositório do Github
-- `[CONST_PROJECT_TITLE]` = Título do projeto
-- `[CONST_DEMO_URL]` = URL da demonstração (se houver)
+- `[CONST_GITHUB_USERNAME]` » Seu nome de usuário do Github
+- `[CONST_AUTHOR_NAME]` » Seu nome completo
+- `[CONST_REPOSITORY_NAME]` » Nome do repositório do Github
+- `[CONST_REPOSITORY_URL]` » URL do repositório do Github
+- `[CONST_PROJECT_TITLE]` » Título do projeto
+- `[CONST_DEMO_URL]` » URL da demonstração (se houver)
 
 
 ### Tecnologias utilizadas
 
 * [Tecnologia 1](#link_para_tecnologia_1)
 * [Tecnologia 2](#link_para_tecnologia_2)
-* [...](#) ...
-
+* ...
+* [Tecnologia X](#link_para_tecnologia_X)
 
 <!-- GETTING STARTED -->
 ## Configurações do ambiente de desenvolvimento
@@ -108,14 +108,8 @@ Para obter uma cópia local atualizada e que possa ser executada corretamente, s
 
 Aqui está um exemplo de como listar itens que seu projeto utiliza e como instalá-los.
 
-* Item 1
 ```bash
 npm install npm@latest -g
-```
-
-* Item 2
-```bash
-como obter item 2
 ```
 
 
@@ -128,7 +122,7 @@ git clone [CONST_REPOSITORY_URL].git
 
 ### Instalando as dependências
 
-No diretório do projeto, executar o comando:
+No diretório do projeto, executar o(s) comando(s):
 
 ```bash
 npm install
@@ -138,31 +132,35 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Utilizando a aplicação
 
-No diretório do projeto, executar o comando:
+No diretório do projeto, executar o(s) comando(s):
 
 ```bash
 npm start
 ```
 
+Será inicializado o servidor de desenvolvimento, que pode ser acessado através do *browser* no endereço <http://localhost:3000>.
+
 
 <!-- ROADMAP -->
 ## Roteiro de melhorias
 
-- [x] Melhoria 1 já implementada
-- [ ] Melhoria 2 a implementar
+- [x] Melhoria 1 (já implementada)
+- [ ] Melhoria 2 (a implementar)
 - [ ] ...
+- [ ] Melhoria X (a implementar)
 
 
 <!-- CONTRIBUTING -->
 ## Contribuições
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contribuições são o que fazem a comunidade *open source* um local surpreendente para aprender, inspirar e criar. Qualquer contribuição que você fizer será **de grande valia**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Faça um *fork* desse repositório ni GitHub.
+2. Faça um *clone* do repositório *fork* criado (`git clone [CONST_REPOSITORY_URL]`).
+3. Crie um *branch* para *commitar* sua funcionalidade ou correção (`git checkout -b MyAmazingFeature`).
+4. Faça o *commit* das alterações (`git commit -m 'Add my amazing feature`).
+5. Faça o *push* da sua *branch* para o seu *fork* (`git push origin MyAmazingFeature`).
+6. Vá para as [Pull requests](https://github.com/[CONST_GITHUB_USERNAME]/[CONST_REPOSITORY_NAME]/pulls) e abra uma nova requisição com o(s) seu(s) *commits(s)*.
 
 
 <!-- LICENSE -->
@@ -184,7 +182,8 @@ Distribuído através da licença MIT. Veja `LICENSE` para mais informações.
 
 * [Referência 1](#link_para_referencia_1)
 * [Referência 2](#link_para_referencia_2)
-* [...](#) ...
+* ...
+* [Referência X](#link_para_referencia_x)
 
 
 <a href="#sumário">🔝 Voltar ao topo</a>
